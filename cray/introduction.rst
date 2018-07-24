@@ -20,7 +20,7 @@ Hardware
 
 The Cray Urika GX system consists of 12 compute nodes (each 2x18 core Broadwell CPU)
 with 256GB of memory and 60TB of storage. For more details of the Urika system,
-see the `Cray website <http://www.cray.com/products/analytics/urika-gx>`_.
+see the `Cray documentation <https://pubs.cray.com/browse/urikagx_sw>`_ and `Cray brochures <http://www.cray.com/products/analytics/urika-gx>`_.
 
 Requesting access to the ATI Cray Urika GX system 
 -------------------------------------------------
@@ -69,7 +69,8 @@ Training Materials
 
 #. The slides from the Urika training course given by Cray in December 2017 are `available <https://cray.app.box.com/v/ati-training-dec-2017>`_.
 #. These slides provide an overview of the hardware, the software stack, use of applications (Hadoop, Spark, Cray Graph Engine, Jupyter Notebooks), resource management and case studies. 
-#. Cray have also provided slides explaining the various job submission mechanisms available on the Urika.  These are available on the Urika itself via a web browser configured to access Cray's application (see :doc:`connecting`).  In such a browser these slides are available at http://urika1.turing.ac.uk/static/documentation/notebooks/ATI-Job-Submission.pdf 
+#. Cray have also provided slides explaining the various job submission mechanisms available on the Urika.  These are available on the Urika itself via a web browser configured to access Cray's application (see :doc:`connecting`).  In such a browser these slides are available at http://urika1.turing.ac.uk/static/documentation/notebooks/ATI-Job-Submission.pdf
+#. See also the `Cray documentation <https://pubs.cray.com/browse/urikagx_sw>`_.
 
 Software troubleshooting
 ------------------------
